@@ -1,0 +1,8 @@
+os
+random
+opencv-python==4.7.0.72 
+torch==1.13.1+cu116  
+torchvision==0.14.1+cu116
+numpy==1.24.2
+tqdm==4.65.0 
+matplotlib==3.7.1
