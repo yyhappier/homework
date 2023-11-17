@@ -1,0 +1,104 @@
+D:\爬虫\venv\Scripts\python.exe D:/pythonProject/爬虫/豆瓣电影Top100.py
+./movie_poster/肖申克的救赎 The Shawshank Redemption_1.jpg
+./movie_poster/霸王别姬_2.jpg
+./movie_poster/阿甘正传 Forrest Gump_3.jpg
+./movie_poster/泰坦尼克号 Titanic_4.jpg
+./movie_poster/这个杀手不太冷 Léon_5.jpg
+./movie_poster/美丽人生 La vita è bella_6.jpg
+./movie_poster/千与千寻 千と千尋の神隠し_7.jpg
+./movie_poster/辛德勒的名单 Schindler's List_8.jpg
+./movie_poster/盗梦空间 Inception_9.jpg
+./movie_poster/忠犬八公的故事 Hachi: A Dog's Tale_10.jpg
+./movie_poster/星际穿越 Interstellar_11.jpg
+./movie_poster/楚门的世界 The Truman Show_12.jpg
+./movie_poster/海上钢琴师 La leggenda del pianista sull'oceano_13.jpg
+./movie_poster/三傻大闹宝莱坞 3 Idiots_14.jpg
+./movie_poster/机器人总动员 WALL·E_15.jpg
+./movie_poster/放牛班的春天 Les choristes_16.jpg
+./movie_poster/无间道 無間道_17.jpg
+./movie_poster/疯狂动物城 Zootopia_18.jpg
+./movie_poster/大话西游之大圣娶亲 西遊記大結局之仙履奇緣_19.jpg
+./movie_poster/熔炉 도가니_20.jpg
+./movie_poster/教父 The Godfather_21.jpg
+./movie_poster/当幸福来敲门 The Pursuit of Happyness_22.jpg
+./movie_poster/控方证人 Witness for the Prosecution_23.jpg
+./movie_poster/怦然心动 Flipped_24.jpg
+./movie_poster/龙猫 となりのトトロ_25.jpg
+./movie_poster/触不可及 Intouchables_26.jpg
+./movie_poster/末代皇帝 The Last Emperor_27.jpg
+./movie_poster/寻梦环游记 Coco_28.jpg
+./movie_poster/蝙蝠侠：黑暗骑士 The Dark Knight_29.jpg
+./movie_poster/活着_30.jpg
+./movie_poster/哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone_31.jpg
+./movie_poster/指环王3：王者无敌 The Lord of the Rings: The Return of the King_32.jpg
+./movie_poster/乱世佳人 Gone with the Wind_33.jpg
+./movie_poster/素媛 소원_34.jpg
+./movie_poster/飞屋环游记 Up_35.jpg
+./movie_poster/摔跤吧！爸爸 Dangal_36.jpg
+./movie_poster/何以为家 كفرناحوم_37.jpg
+./movie_poster/我不是药神_38.jpg
+./movie_poster/十二怒汉 12 Angry Men_39.jpg
+./movie_poster/哈尔的移动城堡 ハウルの動く城_40.jpg
+./movie_poster/少年派的奇幻漂流 Life of Pi_41.jpg
+./movie_poster/鬼子来了_42.jpg
+./movie_poster/大话西游之月光宝盒 西遊記第壹佰零壹回之月光寶盒_43.jpg
+./movie_poster/天空之城 天空の城ラピュタ_44.jpg
+./movie_poster/猫鼠游戏 Catch Me If You Can_45.jpg
+./movie_poster/天堂电影院 Nuovo Cinema Paradiso_46.jpg
+./movie_poster/指环王2：双塔奇兵 The Lord of the Rings: The Two Towers_47.jpg
+./movie_poster/闻香识女人 Scent of a Woman_48.jpg
+./movie_poster/罗马假日 Roman Holiday_49.jpg
+./movie_poster/钢琴家 The Pianist_50.jpg
+./movie_poster/让子弹飞_51.jpg
+./movie_poster/指环王1：护戒使者 The Lord of the Rings: The Fellowship of the Ring_52.jpg
+./movie_poster/海蒂和爷爷 Heidi_53.jpg
+./movie_poster/黑客帝国 The Matrix_54.jpg
+./movie_poster/大闹天宫_55.jpg
+./movie_poster/辩护人 변호인_56.jpg
+./movie_poster/教父2 The Godfather: Part Ⅱ_57.jpg
+./movie_poster/死亡诗社 Dead Poets Society_58.jpg
+./movie_poster/狮子王 The Lion King_59.jpg
+./movie_poster/绿皮书 Green Book_60.jpg
+./movie_poster/搏击俱乐部 Fight Club_61.jpg
+./movie_poster/饮食男女 飲食男女_62.jpg
+./movie_poster/美丽心灵 A Beautiful Mind_63.jpg
+./movie_poster/本杰明·巴顿奇事 The Curious Case of Benjamin Button_64.jpg
+./movie_poster/窃听风暴 Das Leben der Anderen_65.jpg
+./movie_poster/情书 Love Letter_66.jpg
+./movie_poster/两杆大烟枪 Lock, Stock and Two Smoking Barrels_67.jpg
+./movie_poster/穿条纹睡衣的男孩 The Boy in the Striped Pajamas_68.jpg
+./movie_poster/西西里的美丽传说 Malèna_69.jpg
+./movie_poster/看不见的客人 Contratiempo_70.jpg
+./movie_poster/拯救大兵瑞恩 Saving Private Ryan_71.jpg
+./movie_poster/音乐之声 The Sound of Music_72.jpg
+./movie_poster/飞越疯人院 One Flew Over the Cuckoo's Nest_73.jpg
+./movie_poster/小鞋子 بچه های آسمان_74.jpg
+./movie_poster/阿凡达 Avatar_75.jpg
+./movie_poster/哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2_76.jpg
+./movie_poster/沉默的羔羊 The Silence of the Lambs_77.jpg
+./movie_poster/海豚湾 The Cove_78.jpg
+./movie_poster/致命魔术 The Prestige_79.jpg
+./movie_poster/禁闭岛 Shutter Island_80.jpg
+./movie_poster/美国往事 Once Upon a Time in America_81.jpg
+./movie_poster/布达佩斯大饭店 The Grand Budapest Hotel_82.jpg
+./movie_poster/蝴蝶效应 The Butterfly Effect_83.jpg
+./movie_poster/心灵捕手 Good Will Hunting_84.jpg
+./movie_poster/低俗小说 Pulp Fiction_85.jpg
+./movie_poster/春光乍泄 春光乍洩_86.jpg
+./movie_poster/摩登时代 Modern Times_87.jpg
+./movie_poster/七宗罪 Se7en_88.jpg
+./movie_poster/喜剧之王 喜劇之王_89.jpg
+./movie_poster/致命ID Identity_90.jpg
+./movie_poster/杀人回忆 살인의 추억_91.jpg
+./movie_poster/被嫌弃的松子的一生 嫌われ松子の一生_92.jpg
+./movie_poster/加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl_93.jpg
+./movie_poster/功夫_94.jpg
+./movie_poster/哈利·波特与阿兹卡班的囚徒 Harry Potter and the Prisoner of Azkaban_95.jpg
+./movie_poster/红辣椒 パプリカ_96.jpg
+./movie_poster/超脱 Detachment_97.jpg
+./movie_poster/狩猎 Jagten_98.jpg
+./movie_poster/请以你的名字呼唤我 Call Me by Your Name_99.jpg
+./movie_poster/剪刀手爱德华 Edward Scissorhands_100.jpg
+爬取完毕！
+
+进程已结束,退出代码0
